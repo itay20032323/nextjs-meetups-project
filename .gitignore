@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Next.js build output
+.next/
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
